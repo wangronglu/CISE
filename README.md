@@ -2,6 +2,8 @@
 CISE is an R package that fits the multiple-gragh factorization (M-GRAF) model ( [Wang et al., 2017](https://arxiv.org/abs/1707.06360))
 for separating common and individual low rank structure for multiple graphs with a common set of nodes.
 
+[![Build Status](https://travis-ci.org/wangronglu/CISE.svg?branch=master)](https://travis-ci.org/wangronglu/CISE)
+
 ## Installation
 ```
 install.packages("CISE")
